@@ -1,3 +1,6 @@
+[![Header](https://github.com/AscendingToApex/AscendingToApex/blob/main/Pictures/Header.png "Header")](https://some-url.dev/)
+
+
 - 👋 Hi, I’m @AscendingToApex
 - 👀 I’m interested in implimenting data engineering, controls, automation, and analytics in manufacturing environments.
 - 🌱 I’m currently learning data science core compentencies.
